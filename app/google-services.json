@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "760112918937",
+    "firebase_url": "https://projem-2cfa1.firebaseio.com",
+    "project_id": "projem-2cfa1",
+    "storage_bucket": "projem-2cfa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760112918937:android:d2c1501911341e3f",
+        "android_client_info": {
+          "package_name": "com.example.mehmet.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760112918937-tknqlg53vf6lbg0f9cct24a8v1c7nk34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_eET1qLbnhcn6LeGK6nQALiAKZTtAO4c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
